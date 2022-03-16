@@ -1,6 +1,6 @@
-# this project uses React hooks to build a list of cats that contains info about each cat.
-# this project allows you to edit the info of a cat or completely delete the whole card the contains the cat.
-# this project is merely a demonstration of how React Hooks made controling the global state easier than using React Components Props.
+ this project uses React hooks to build a list of cats that contains info about each cat.
+ this project allows you to edit the info of a cat or completely delete the whole card the contains the cat.
+ this project is merely a demonstration of how React Hooks made controling the global state easier than using React Components Props.
 
 
 # Getting Started with Create React App
